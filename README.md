@@ -1,7 +1,7 @@
 # PixelJumper
 Platform game developed in Python and PyGame
 
-An Windows installer has been included in release v1.0
+A Windows installer has been included in release v1.0.
 
 To run the code, you will need to download and install Python from here:
 * https://www.python.org/downloads/
