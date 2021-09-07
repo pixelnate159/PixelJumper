@@ -8,6 +8,7 @@ To run the code, you will need to download and install Python from here:
 
 Then install pygame using the command:
 * pip install pygame
+
 Help and instructions for installing pygame can be found here:
 * https://www.pygame.org/wiki/GettingStarted
 
