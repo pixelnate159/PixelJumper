@@ -13,3 +13,12 @@ https://cooltext.com/
 
 Font:
 Riffic Bold - https://www.dafont.com/riffic.font
+
+Code packaged into an exe using:
+PyInstaller - https://pypi.org/project/pyinstaller/
+
+Installer generated using:
+Inno Setup - https://jrsoftware.org/isinfo.php
+
+Player Graphics generated using:
+Mine-imator - https://www.mineimator.com/
